@@ -1,0 +1,322 @@
+:root {
+    --border-color: #4e7c9b1a;
+    --inner-bg-color:rgba(255, 255, 255, 0.3);
+    --logo-scale-x: 1;
+}
+
+body {
+    background-image: url("img/repeatingSky.png");
+    background-repeat: repeat;
+
+    font-family: "Afacad Flux", sans-serif;
+
+    overflow-x: hidden;
+}
+
+.innerDiv {
+    background-color: var(--inner-bg-color);
+    
+    border: 4px solid var(--border-color);
+}
+
+#firstRow, #secondRow, #thirdRow {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+
+#secondRow {
+    height:430px;
+}
+
+#thirdRow {
+    height: 400px;
+}
+
+#bg {
+    background-image: linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0));
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    padding:10px;
+    width:100%;
+    height:1100px;
+}
+
+#mainPage {
+    margin: auto;
+    width: 1000px;
+    border: 10px inset var(--border-color);
+    border-radius:10px;
+    height:1000px;
+    padding:10px;
+    
+    display:flex;
+    flex-direction:column;
+
+    background-image: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.4)), url("img/background.png");
+
+    box-shadow: 5px 10px rgba(40, 68, 82, 0.548), 10px 20px rgba(40, 68, 82, 0.247);
+}
+
+#title {
+    display:flex;
+    width:600px;
+    height:150px;
+    padding:10px;
+}
+
+#fakeAds {
+    width:400px;
+    height:150px;
+    padding:10px;
+    border-left:none;
+
+    display:flex;
+    flex-direction:column;
+}
+
+#quicklinks {
+    display:flex;
+    flex-direction:column;
+    justify-content:start;
+    
+    padding:10px;
+    width:120px;
+}
+
+#clickAroundDiv {
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+
+    padding:10px;
+    width:400px;
+    height:360px;
+}
+
+#insideCAContent {
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    width:400px;
+}
+
+#clickAroundImg {
+    max-width:300px;
+    max-height:230px;
+    border-radius:10px;
+}
+
+.slides {
+    display: none;
+}
+
+a {
+    margin-bottom:10px;
+    text-shadow: rgba(10, 71, 121, 0.438) 1px 0 10px;
+}
+
+hr {
+    border-color: var(--border-color);
+    border-width:2px;
+    border-style: dotted;
+}
+
+.prev, .next {
+    cursor: pointer;
+    font-size:50px;
+}
+
+#drawingGallery {
+    display:block;
+    float:right;
+    width:400px;
+}
+
+.galleryImg {
+    width:100%;
+    height:auto;
+    margin-bottom:10px;
+    border-radius:10px;
+}
+
+#polynomialClock {
+    width:400px;
+    padding:10px;
+}
+
+/*
+    CSS ANIMATIONS
+*/
+
+.hover { 
+    animation: MoveUpDown 4s ease-in-out infinite;
+}
+
+@keyframes MoveUpDown {
+    0%, 100% {
+        transform: translateY(5px) scaleX(var(--logo-scale-x));
+    }
+    50% {
+        transform: translateY(-5px) scaleX(var(--logo-scale-x));
+    }
+}
+
+@keyframes rotateHue {
+    0% {
+        filter: hue-rotate(0deg);
+    }
+    100% {
+        filter: hue-rotate(360deg);
+    }
+}
+
+#marqueeBounce {
+    margin-top:-10px;
+    margin-bottom:10px;
+
+    background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(53, 86, 112, 0.479));
+    border-radius:10px;
+
+    animation: rotateHue 4s ease-in-out infinite;
+}
+
+/*
+    THE CLOCK
+*/
+
+.clockbody {
+    width:250px;
+    height:250px;
+    background-color: rgba(214, 247, 253, 0.658);
+    border-radius:50%;
+    border: 3px inset rgba(122, 168, 182, 0.9);
+    position: relative;
+    margin: 0 auto;
+}
+
+.clockbody .number {
+    --rotation: 0;
+    --fontsize:10px;
+
+    position:absolute;
+    width:100%;
+    height:100%;
+    text-align:center;
+    transform: rotate(var(--rotation));
+    font-size:var(--fontsize);
+}
+
+.clockbody .number1 {--rotation: 2.5deg; --fontsize: 12px;}
+.clockbody .number2 {--rotation: 10deg; --fontsize: 13px;}
+.clockbody .number3 {--rotation: 22.5deg; --fontsize: 14px;}
+.clockbody .number4 {--rotation: 40deg; --fontsize: 15px;}
+.clockbody .number5 {--rotation: 62.5deg; --fontsize: 16px;}
+.clockbody .number6 {--rotation: 90deg; --fontsize: 18px;}
+.clockbody .number7 {--rotation: 122.5deg; --fontsize: 20px;}
+.clockbody .number8 {--rotation: 160deg; --fontsize: 22px;}
+.clockbody .number9 {--rotation: 202.5deg; --fontsize: 24px;}
+.clockbody .number10 {--rotation: 250deg; --fontsize: 27px;}
+.clockbody .number11 {--rotation: 302.5deg; --fontsize: 30px;}
+
+.clockbody .hand {
+    --rotation: 0;
+
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    width: 6px;
+    height: 40%;
+    background-image: linear-gradient(to right, rgb(20, 48, 54), rgb(23, 31, 32));
+    border-radius:20%;
+    transform-origin: bottom;
+    transform: translate(-50%) rotate(calc(var(--rotation) * 1deg));
+}
+
+.clockbody .sHand {
+    background-image:none;
+    background-color:red;
+    width:3px;
+    height:45%;
+    z-index:5;
+}
+
+.clockbody .hHand {
+    width:8px;
+    height:32%;
+}
+
+.handmiddle {
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    background-image: radial-gradient(rgb(73, 85, 87), rgb(23, 31, 32));
+    width:20px;
+    height:20px;
+    transform: translate(-50%, 50%);
+    border-radius:45%;
+    z-index:6;
+}
+
+/*
+    THE CLICKER GAME
+*/
+
+#clickerGame {
+    width:580px;
+    padding:10px;
+
+    display:flex;
+    flex-direction:row;
+}
+
+.leftBox {
+    display:flex;
+    flex-direction:column;
+    margin-right:10px;
+    width:600px;
+}
+
+.rightBox {
+    width:250px;
+    height:300px;
+    margin:10px;
+
+    border-bottom:2px solid rgba(0, 0, 0, 0.5);
+
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.bakerButton {
+    width:230px;
+    margin-bottom:5px;
+    border-radius:10px;
+    background-image:linear-gradient(rgba(187, 232, 240, 0.5), rgba(187, 232, 240, 0.3));
+    border: 2px solid rgba(0, 0, 0, 0.5);
+
+    font-size:18px;
+    font-family: "Afacad Flux", sans-serif;
+}
+
+.bakerButton > p {
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+.cornerCounter {
+    float:left;
+}
+
+#croissant {
+    width:150px;
+    height:150px;
+}
+
+#choctext {
+    margin-bottom:-15px;
+}

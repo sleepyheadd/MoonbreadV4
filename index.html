@@ -110,25 +110,26 @@
 
             <div id="thirdRow">
                 <div id="polynomialClock" class="innerDiv">
-                    <h1 style="margin-bottom:-20px; text-shadow:40px 0px #558abb28, 80px 0px #558abb10;">Quadratic Clock</h1>
-                    <p data-time-print>00:00:00</p>
-                    <div class="clockbody">
+                    <h1 style="margin-bottom:-20px; text-shadow:40px 0px #558abb28, 80px 0px #558abb10;">Polynomial Clock</h1>
+                    <p data-time-print style="pointer-events:none;">00:00:00</p>
+                    <input type="range" id="clockPowerRange" style="margin-top:-15px;" value="200" min="50" max="400">
+                    <div class="clockbody" style="pointer-events:none;">
                         <div class="hand sHand" data-second-hand></div>
                         <div class="hand mHand" data-minute-hand></div>
                         <div class="hand hHand" data-hour-hand></div>
                         <div class="handmiddle"></div>
-                        <div class="number number1">1</div>
-                        <div class="number number2">2</div>
-                        <div class="number number3">3</div>
-                        <div class="number number4">4</div>
-                        <div class="number number5">5</div>
-                        <div class="number number6">6</div>
-                        <div class="number number7">7</div>
-                        <div class="number number8">8</div>
-                        <div class="number number9">9</div>
-                        <div class="number number10">10</div>
-                        <div class="number number11">11</div>
-                        <div class="number number12">12</div>
+                        <div class="number number1">|</div>
+                        <div class="number number2">|</div>
+                        <div class="number number3">|</div>
+                        <div class="number number4">|</div>
+                        <div class="number number5">|</div>
+                        <div class="number number6">|</div>
+                        <div class="number number7">|</div>
+                        <div class="number number8">|</div>
+                        <div class="number number9">|</div>
+                        <div class="number number10">|</div>
+                        <div class="number number11">|</div>
+                        <div class="number number12">|</div>
                     </div>
 
                     <script defer src="clockscript.js"></script>

@@ -201,7 +201,7 @@ hr {
 
 .clockbody .number {
     --rotation: 0;
-    --fontsize:10px;
+    --fontsize:15px;
 
     position:absolute;
     width:100%;
@@ -211,7 +211,7 @@ hr {
     font-size:var(--fontsize);
 }
 
-.clockbody .number1 {--rotation: 2.5deg; --fontsize: 12px;}
+/*.clockbody .number1 {--rotation: 2.5deg; --fontsize: 12px;}
 .clockbody .number2 {--rotation: 10deg; --fontsize: 13px;}
 .clockbody .number3 {--rotation: 22.5deg; --fontsize: 14px;}
 .clockbody .number4 {--rotation: 40deg; --fontsize: 15px;}
@@ -221,7 +221,7 @@ hr {
 .clockbody .number8 {--rotation: 160deg; --fontsize: 22px;}
 .clockbody .number9 {--rotation: 202.5deg; --fontsize: 24px;}
 .clockbody .number10 {--rotation: 250deg; --fontsize: 27px;}
-.clockbody .number11 {--rotation: 302.5deg; --fontsize: 30px;}
+.clockbody .number11 {--rotation: 302.5deg; --fontsize: 30px;}*/
 
 .clockbody .hand {
     --rotation: 0;

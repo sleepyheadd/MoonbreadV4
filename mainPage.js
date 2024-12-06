@@ -41,6 +41,40 @@ for (i = 0; i < slides.length; i++) {
 slides[slideIndex-1].style.display = "flex";
 } 
 
+//Mouse effects
+document.getElementById('croissant').addEventListener('click', (event) => {
+    let width = 50;
+
+    console.log('croissant clicked');
+    const newDiv = document.createElement('div');
+    newDiv.style = `position: fixed; width: ${width}px; height: ${width}px; pointer-events: none;`;
+    newDiv.style.backgroundImage = 'url("img/choccros1.png")';
+    newDiv.style.backgroundSize = 'cover';
+    newDiv.style.left = `${event.clientX - width / 2}px`;;
+    newDiv.style.top = `${event.clientY - width / 2}px`;
+    document.body.appendChild(newDiv);
+
+    fallAndDisappear(newDiv);
+});
+
+function fallAndDisappear(div) {
+    let count = 0;
+    let maxCount = 25;
+    let wind = (Math.random() - 0.5) / 2;
+
+    const interval = setInterval(() => {
+        if (count >= maxCount) {
+            clearInterval(interval);
+            document.body.removeChild(div);
+        } else {
+            div.style.top = `${parseInt(div.style.top) + Math.pow(count / 5, 1.5)}px`;
+            div.style.left = `${parseInt(div.style.left) + wind * count}px`;
+            div.style.opacity = 1 - count / maxCount;
+            count++;
+        }
+    }, 10);
+}
+
 //Roblox API call
 /*const apiUrl = "https://thumbnails.roblox.com/v1/users/avatar?userIds=5765982&size=420x420&format=Png&isCircular=false";
 

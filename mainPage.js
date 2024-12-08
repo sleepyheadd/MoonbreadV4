@@ -48,7 +48,7 @@ document.getElementById('croissant').addEventListener('click', (event) => {
     console.log('croissant clicked');
     const newDiv = document.createElement('div');
     newDiv.style = `position: fixed; width: ${width}px; height: ${width}px; pointer-events: none;`;
-    newDiv.style.backgroundImage = 'url("img/choccros1.png")';
+    newDiv.style.backgroundImage = 'url("img/croissantmini.png")';
     newDiv.style.backgroundSize = 'cover';
     newDiv.style.left = `${event.clientX - width / 2}px`;;
     newDiv.style.top = `${event.clientY - width / 2}px`;

@@ -29,6 +29,9 @@ body {
     height: 50vh; /* or any specific height you prefer */
     overflow-y: auto;
 
+    background-image: url("img/repeatingSky.png");
+    background-repeat:repeat;
+
     font-family: "Afacad Flux", sans-serif;
 
     overflow-x: hidden;

@@ -9,12 +9,12 @@
         transform:translateZ(0)
       }
       to {
-        transform:translate3d(-1024px,-512px,0)
+        transform:translate3d(-1023px,-511px,0)
       }
 }
 
 #scrollingSky {
-    animation: slide 30s linear infinite;
+    animation: slide 25s linear infinite;
 
     position:absolute;
     z-index:-1;

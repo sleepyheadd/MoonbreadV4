@@ -4,9 +4,30 @@
     --logo-scale-x: 1;
 }
 
+@keyframes slide {
+    0% {
+        transform:translateZ(0)
+      }
+      to {
+        transform:translate3d(-1024px,-512px,0)
+      }
+}
+
+#scrollingSky {
+    animation: slide 30s linear infinite;
+
+    position:absolute;
+    z-index:-1;
+    width:200%;
+}
+
+#scrollingSky img {
+    margin:-3px;
+}
+
 body {
-    background-image: url("img/repeatingSky.png");
-    background-repeat: repeat;
+    height: 50vh; /* or any specific height you prefer */
+    overflow-y: auto;
 
     font-family: "Afacad Flux", sans-serif;
 
@@ -47,6 +68,7 @@ body {
     padding:10px;
     width:100%;
     height:1100px;
+    overflow: hidden;
 }
 
 #mainPage {

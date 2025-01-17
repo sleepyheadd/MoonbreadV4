@@ -41,6 +41,20 @@ for (i = 0; i < slides.length; i++) {
 slides[slideIndex-1].style.display = "flex";
 } 
 
+//Tabs
+var tabs = ['spiritsStats', 'drawingGallery']
+
+function openTab(tabName) {
+    for (let i = 0; i < tabs.length; i++) {
+        if (tabs[i] == tabName) {
+            document.getElementById(tabs[i]).style.display = 'block';
+        } else {
+            document.getElementById(tabs[i]).style.display = 'none';
+        }
+    }
+
+}
+
 //Mouse effects
 document.getElementById('croissant').addEventListener('click', (event) => {
     let width = 50;
@@ -76,19 +90,37 @@ function fallAndDisappear(div) {
 }
 
 //Roblox API call
-/*const apiUrl = "https://thumbnails.roblox.com/v1/users/avatar?userIds=5765982&size=420x420&format=Png&isCircular=false";
+const apiUrl = "https://games.roproxy.com/v1/games?universeIds=6154234907";
 
 fetch(apiUrl)
     .then(response => response.json())
     .then(data => {
         if (data.data && data.data.length > 0) {
-            // Extract the imageUrl from the API response
-            const imageUrl = data.data[0].imageUrl;
+            const visitCount = data.data[0].visits;
+            const favorites = data.data[0].favoritedCount;
 
-            // Set the src attribute of the <img> tag
-            document.getElementById('robloxAvatar').src = imageUrl;
+            var visitCountString = visitCount.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+            var favoritesString = favorites.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+            
+            document.getElementById('spiritsData').textContent = `I made a game on Roblox called Find The Spirits that currently has ${visitCountString} visits and ${favoritesString} favorites! You explore different maps to collect lost spirits of all shapes and forms.`;
         } else {
             console.error('No image data found.');
         }
     })
-    .catch(error => console.error('Error fetching avatar:', error));*/
+    .catch(error => console.error('Error fetching data:', error));
+
+    const apiURLPicture = "https://thumbnails.roproxy.com/v1/users/avatar?userIds=5765982&size=352x352&format=Png";
+
+    fetch(apiURLPicture)
+    .then(response => response.json())
+    .then(data => {
+        if (data.data && data.data.length > 0) {
+            const profilePic= data.data[0].imageUrl;
+            console.log(profilePic);
+            
+            document.getElementById('robloxAvatar').src = profilePic;
+        } else {
+            console.error('No image data found.');
+        }
+    })
+    .catch(error => console.error('Error fetching data:', error));

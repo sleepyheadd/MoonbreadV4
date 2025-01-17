@@ -39,10 +39,12 @@
                         </marquee>
                     </marquee>
                     <marquee behavior="scroll" direction="left" scrollamount="4" width="100%" height="20%">
-                        Fogging the view, cupping face to the window 
-                        In darkness you make out a spiraling shape 
-                        Putting all reason aside you exchange 
-                        What you got for a thing that's <a href="https://www.youtube.com/watch?v=Em6v3sF7stM">hypnotic</a> and strange 
+                        Way back when I was just a little bitty boy
+                        living in a box under the stairs
+                        in the corner of the basement of the house
+                        half a block down the street from Jerry's Bait shop,
+                        you know the place,
+                        well anyway back then life was going swell and everything was just peachy
                     </marquee>
                 </div>
             </div>
@@ -57,7 +59,7 @@
                     <a href="https://bsky.app/profile/moonbreadgames.bsky.social">Bluesky</a>
                     <a href="https://www.youtube.com/@moonbreadd">YouTube</a>
                     <a href="https://www.instagram.com/moonbreaddd/">Instagram</a>
-                    <a href="https://www.roblox.com/users/5765982/profile"><img src="img/robloxian.webp" id="robloxAvatar" style="transform:scaleX(-1); width:75px; height:auto; margin-left:-15px;"></img></a>
+                    <a href="https://www.roblox.com/users/5765982/profile"><img src="img/robloxian.webp" id="robloxAvatar" style="transform:scaleX(-1); width:100px; height:auto; margin-left:-15px;"></img></a>
                 </div>
 
                 <div id="clickAroundExterior" class="innerDiv">
@@ -69,14 +71,14 @@
     
                         <div class="slides" id="insideCAContent">
                             <img id="clickAroundImg" src="img/sillyme.png"></img>
-                            <p>Hi there! I'm Devin and I make different things to put online. Most of them are games and art, thanks for checking them out! 
+                            <p>Hi there! I'm Devin and I make different things to put online. Most of them are games and art, you can check them out by clicking the arrows! 
                                 If you want to reach out to me, I can best be contacted at dmbeck9459@gmail.com :)</p>
                         </div>
-                        <div class="slides" id="insideCAContent">
+                        <!--<div class="slides" id="insideCAContent">
                             <img id="clickAroundImg" src="img/findSpiritsIconNew.png"></img>
                             <p>I made a game called <a href="https://www.roblox.com/games/18153415475/Find-the-Spirits-116">Find The Spirits</a> on Roblox! I made the base game during 
                                 a month of hyperfixation in the summer of 2024, and it did better than I ever expected it to. I still like to work on it every now and then!</p>
-                        </div>
+                        </div>-->
                         <div class="slides" id="insideCAContent">
                             <img id="clickAroundImg" src="img/shoecake.png"></img>
                             <p>In the summer of 2023, I made <a href="https://moonbreadgames.itch.io/shoecake">Shoecake</a> as an entry to an <a href="https://itch.io/jam/advjam2023/rate/2110868">Adventure GameJam</a> 
@@ -109,19 +111,33 @@
                     <hr>
                 </div>
                 
+                <div id="tabArea">
+                    <div>
+                        <button class="tabButton" onclick="openTab('spiritsStats')">Find The Spirits</button>
+                        <button class="tabButton" onclick="openTab('drawingGallery')">Miscellaneous Art</button>
+                    </div>
 
-                <div id="drawingGallery" class="innerDiv">
-                    <div style="height:410px; overflow-y: scroll; text-align:center; text-shadow:0px 10px #558abb4b, 0px 20px #558abb28;">
-                        <h1>Miscellaneous Art</h1>
-                        <img class="galleryImg" src="img/vyreDNDcard.png"></img>
-                        <img class="galleryImg" src="img/edithbutlikeuhfighting.png"></img>
-                        <img class="galleryImg" src="img/seatobelieve.png"></img>
-                        <img class="galleryImg" src="img/sungod.png"></img>
-                        <img class="galleryImg" src="img/radiotwoerss.png"></img>
-                        <img class="galleryImg" src="img/anxietii.png"></img>
-                        <img class="galleryImg" src="img/businessmoreunusual.png"></img>
-                        <img class="galleryImg" src="img/cuteRobot.png"></img>
-                        <img class="galleryImg" src="img/suffocatenothing.png"></img>
+                    <div class="innerDiv"  id="spiritsStats">
+                        <div style="padding:10px; text-align:center;">
+                            <h1 style="text-shadow:0px 10px #558abb4b, 0px 20px #558abb28;">Find The Spirits</h1>
+                            <a href="https://www.roblox.com/games/18153415475/Find-the-Spirits-116"><img id="clickAroundImg" src="img/findTheSpiritsThumbnail.webp"></img></a>
+                            <p id="spiritsData">I made a game on Roblox called Find The Spirits! Check it out if you'd like :D</p>
+                        </div>
+                    </div>
+                    <div id="drawingGallery" class="innerDiv">
+                        <div style="height:386px; overflow-y: scroll; text-align:center;">
+                            <p>Various things I've drawn over the years :3</p>
+                            <p>More can be found on my Instagram, though I don't post on there anymore.</p>
+                            <img class="galleryImg" src="img/vyreDNDcard.png"></img>
+                            <img class="galleryImg" src="img/edithbutlikeuhfighting.png"></img>
+                            <img class="galleryImg" src="img/seatobelieve.png"></img>
+                            <img class="galleryImg" src="img/sungod.png"></img>
+                            <img class="galleryImg" src="img/radiotwoerss.png"></img>
+                            <img class="galleryImg" src="img/anxietii.png"></img>
+                            <img class="galleryImg" src="img/businessmoreunusual.png"></img>
+                            <img class="galleryImg" src="img/cuteRobot.png"></img>
+                            <img class="galleryImg" src="img/suffocatenothing.png"></img>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -198,7 +214,7 @@
             </div>
         </div>
 
-        <marquee style="position:absolute; bottom:10px; pointer-events:none;" scrollamount="4" direction="right"><img src="img/catwalkinggif.gif" style="width:128px; height:auto;"></img></marquee>
+        <marquee style="pointer-events:none;" scrollamount="4" direction="right"><img src="img/catwalkinggif.gif" style="width:128px; height:auto;"></img></marquee>
     </div>
 </body>
 </html>

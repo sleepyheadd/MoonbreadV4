@@ -48,8 +48,11 @@ function openTab(tabName) {
     for (let i = 0; i < tabs.length; i++) {
         if (tabs[i] == tabName) {
             document.getElementById(tabs[i]).style.display = 'block';
+            document.getElementById(tabs[i] + "Button").style.opacity = 1;
+
         } else {
             document.getElementById(tabs[i]).style.display = 'none';
+            document.getElementById(tabs[i] + "Button").style.opacity = 0.3;
         }
     }
 
@@ -90,37 +93,41 @@ function fallAndDisappear(div) {
 }
 
 //Roblox API call
-const apiUrl = "https://games.roproxy.com/v1/games?universeIds=6154234907";
+const robloxAPIAllowed = true;
 
-fetch(apiUrl)
-    .then(response => response.json())
-    .then(data => {
-        if (data.data && data.data.length > 0) {
-            const visitCount = data.data[0].visits;
-            const favorites = data.data[0].favoritedCount;
+if (robloxAPIAllowed) {
+    const apiUrl = "https://games.roproxy.com/v1/games?universeIds=6154234907";
 
-            var visitCountString = visitCount.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-            var favoritesString = favorites.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-            
-            document.getElementById('spiritsData').textContent = `I made a game on Roblox called Find The Spirits that currently has ${visitCountString} visits and ${favoritesString} favorites! You explore different maps to collect lost spirits of all shapes and forms.`;
-        } else {
-            console.error('No image data found.');
-        }
-    })
-    .catch(error => console.error('Error fetching data:', error));
+    fetch(apiUrl)
+        .then(response => response.json())
+        .then(data => {
+            if (data.data && data.data.length > 0) {
+                const visitCount = data.data[0].visits;
+                const favorites = data.data[0].favoritedCount;
 
-    const apiURLPicture = "https://thumbnails.roproxy.com/v1/users/avatar?userIds=5765982&size=352x352&format=Png";
+                var visitCountString = visitCount.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+                var favoritesString = favorites.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+                
+                document.getElementById('spiritsData').textContent = `I made a game on Roblox called Find The Spirits that currently has ${visitCountString} visits and ${favoritesString} favorites! You explore different maps to collect lost spirits of all shapes and forms.`;
+            } else {
+                console.error('No image data found.');
+            }
+        })
+        .catch(error => console.error('Error fetching data:', error));
 
-    fetch(apiURLPicture)
-    .then(response => response.json())
-    .then(data => {
-        if (data.data && data.data.length > 0) {
-            const profilePic= data.data[0].imageUrl;
-            console.log(profilePic);
-            
-            document.getElementById('robloxAvatar').src = profilePic;
-        } else {
-            console.error('No image data found.');
-        }
-    })
-    .catch(error => console.error('Error fetching data:', error));
+        const apiURLPicture = "https://thumbnails.roproxy.com/v1/users/avatar?userIds=5765982&size=352x352&format=Png";
+
+        fetch(apiURLPicture)
+        .then(response => response.json())
+        .then(data => {
+            if (data.data && data.data.length > 0) {
+                const profilePic= data.data[0].imageUrl;
+                console.log(profilePic);
+                
+                document.getElementById('robloxAvatar').src = profilePic;
+            } else {
+                console.error('No image data found.');
+            }
+        })
+        .catch(error => console.error('Error fetching data:', error));
+}

@@ -245,6 +245,10 @@ hr {
     animation: rotateHue 4s ease-in-out infinite;
 }
 
+#drawingGalleryButton {
+    opacity: 0.3;
+}
+
 /*
     THE CLOCK
 */

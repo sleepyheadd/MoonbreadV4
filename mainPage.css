@@ -26,15 +26,13 @@
     display:auto;
 }
 
-@media screen and (min-width: 2500px) {
+@media screen and ((min-width: 2500px) or (max-width:1200px)) {
     #scrollingSky {
         display:none;
     }
-}
 
-@media screen and (max-width:1200px) {
-    #scrollingSky {
-        display:none;
+    body {
+        background-image: url("img/repeatingSky.png");
     }
 }
 
@@ -46,7 +44,7 @@ body {
     height: 50vh; /* or any specific height you prefer */
     overflow-y: auto;
 
-    background-image: url("img/repeatingSky.png");
+    background-color:white;
     background-repeat:repeat;
 
     font-family: "Afacad Flux", sans-serif;

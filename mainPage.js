@@ -93,7 +93,7 @@ function fallAndDisappear(div) {
 }
 
 //Roblox API call
-const robloxAPIAllowed = true;
+const robloxAPIAllowed = false;
 
 if (robloxAPIAllowed) {
     const apiUrl = "https://games.roproxy.com/v1/games?universeIds=6154234907";

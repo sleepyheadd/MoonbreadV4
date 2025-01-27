@@ -1,0 +1,41 @@
+body {
+    background-image: url('img/repeatingSky.png');
+}
+
+#mainBody {
+    background-color: rgba(255, 255, 255, 0.8);
+    font-family: 'Afacad Flux', sans-serif;
+    font-size:18px;
+    overflow-x: hidden;
+    margin:100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+
+    border-radius:10px;
+}
+
+#blogEntry {
+    margin:10px;
+    padding:10px;
+}
+
+#blogEntry h1 {
+    font-size:40px;
+}
+
+#blogEntry img {
+    width:100%;
+    height:auto;
+    border-radius:10px;
+    margin:10px;
+}
+
+#imageTextCombo {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}

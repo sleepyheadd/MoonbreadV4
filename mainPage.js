@@ -110,7 +110,13 @@ if (robloxAPIAllowed) {
                 var favoritesString = favorites.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
                 
                 document.getElementById('spiritsData').textContent = `I made a game on Roblox called Find The Spirits that currently has ${visitCountString} visits and ${favoritesString} favorites! You explore different maps to collect strange ghosts...`;
-                document.getElementById('spiritsDataCurrentUsers').textContent = `${currentUsers} players are in game right now!`;
+                
+                if (currentUsers > 1) {
+                    document.getElementById('spiritsDataCurrentUsers').textContent = `${currentUsers} players are in game right now!`;
+                } else {
+                    document.getElementById('spiritsDataCurrentUsers').textContent = '';
+                }
+                
             } else {
                 console.error('No image data found.');
             }

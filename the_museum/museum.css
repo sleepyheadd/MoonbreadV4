@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+.unnamed_container, .flower_container {
+  /*font-family: "Coral Pixels", serif;*/
+  font-family: "Jersey 20", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color:rgba(255, 255, 255, 0.548);
+  font-size:40px;
+
+  display:flex;
+  flex-direction:row;
+  gap:50px;
+}
+
+.flower_container {
+    justify-content:flex-end;
+}
+
+.unnamed_message, .flower_message {
+    color:white;
+}

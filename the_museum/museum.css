@@ -42,10 +42,6 @@ General CSS
   color:rgba(255, 255, 255, 0.548);
   font-size:40px;
 
-  /*display:flex;
-  flex-direction:row;
-  gap:50px;*/
-
   display: grid;
   grid-template-columns: 200px 1fr 200px;
   gap: 20px;
@@ -56,6 +52,8 @@ General CSS
 
 .message {
     color:white;
+    display:flex;
+    flex-direction:column;
 }
 
 .message img {
@@ -72,14 +70,25 @@ General CSS
 
 #unnamed .message {
     text-align:left;
+    width:75%;
 }
 
 #flower .message {
+    justify-self: end;
     text-align:right;
+    width:75%;
+}
+
+#flower img {
+    align-self:flex-end;
 }
 
 .date {
     font-size:30px;
     color:rgba(255, 255, 255, 0.1);
     padding-left:50px;
+}
+
+#descriptor {
+    color:rgba(255, 255, 255, 0.1);
 }

@@ -1,6 +1,39 @@
 body {
     background-color: black;
+    background-image:linear-gradient(black, rgb(34, 34, 34), black);
+    background-size:300px;
+    height:5500px;
 }
+
+/*
+BG CSS
+*/
+
+.bg {
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0px;
+    left:0px;
+    z-index:-999;
+
+    background-repeat:repeat;
+}
+
+#bgStars {
+    background-image:url(img/museum_bg_tile.png);
+    opacity:0.1;
+    background-size: 10%;
+}
+
+#bgStars2 {
+    background-image:url(img/museum_bg_tile.png);
+    opacity:0.3;
+}
+
+/*
+General CSS
+*/
 
 .unnamed_container, .flower_container {
   /*font-family: "Coral Pixels", serif;*/

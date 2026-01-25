@@ -2,7 +2,6 @@ body {
     background-color: black;
     background-image:linear-gradient(black, rgb(34, 34, 34), black);
     background-size:300px;
-    height:5500px;
 }
 
 /*
@@ -23,7 +22,7 @@ BG CSS
 #bgStars {
     background-image:url(img/museum_bg_tile.png);
     opacity:0.1;
-    background-size: 10%;
+    background-size: 128px;
 }
 
 #bgStars2 {
@@ -35,7 +34,7 @@ BG CSS
 General CSS
 */
 
-.unnamed_container, .flower_container {
+.message_box {
   /*font-family: "Coral Pixels", serif;*/
   font-family: "Jersey 20", sans-serif;
   font-weight: 400;
@@ -43,15 +42,44 @@ General CSS
   color:rgba(255, 255, 255, 0.548);
   font-size:40px;
 
-  display:flex;
+  /*display:flex;
   flex-direction:row;
-  gap:50px;
+  gap:50px;*/
+
+  display: grid;
+  grid-template-columns: 200px 1fr 200px;
+  gap: 20px;
+  padding: 8px 0;
+  align-items: center;
+  text-align:center;
 }
 
-.flower_container {
-    justify-content:flex-end;
-}
-
-.unnamed_message, .flower_message {
+.message {
     color:white;
+}
+
+.message img {
+    width:512px;
+    box-shadow: 0 0 15px 15px #ffffff28;
+}
+
+#image {
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+    color:rgba(255, 255, 255, 0.1);
+}
+
+#unnamed .message {
+    text-align:left;
+}
+
+#flower .message {
+    text-align:right;
+}
+
+.date {
+    font-size:30px;
+    color:rgba(255, 255, 255, 0.1);
+    padding-left:50px;
 }

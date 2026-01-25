@@ -16,5 +16,27 @@ function moveBG() {
     interval += 0.5;
     bgStars2.style.backgroundPositionX = `${interval*2}px`;
     bgStars.style.backgroundPositionX = `${interval}px`;
-    console.log(interval);
+    if (interval >= 256) {
+        interval = 0;
+    }
 }
+
+//Message Time Handler
+const startTime = new Date("2082-02-25T09:05:00");
+
+let currentTime = new Date(startTime);
+
+document.querySelectorAll(".message_box").forEach(msg => {
+    const offset = Number(msg.dataset.minutes || 0);
+
+    currentTime.setMinutes(currentTime.getMinutes() + offset);
+
+    const timeElapsed = msg.querySelector(".date");
+    timeElapsed.textContent = currentTime.toLocaleTimeString([], {
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit",
+        hour12:false
+    });
+});

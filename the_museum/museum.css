@@ -2,6 +2,7 @@ body {
     background-color: black;
     background-image:linear-gradient(black, rgb(34, 34, 34), black);
     background-size:300px;
+    overflow-x:hidden;
 }
 
 /*
@@ -35,7 +36,6 @@ General CSS
 */
 
 .message_box {
-  /*font-family: "Coral Pixels", serif;*/
   font-family: "Jersey 20", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -66,6 +66,10 @@ General CSS
     flex-direction:column;
     gap:20px;
     color:rgba(255, 255, 255, 0.1);
+}
+
+#unstable {
+    font-family: "Coral Pixels", serif;
 }
 
 #unnamed .message {

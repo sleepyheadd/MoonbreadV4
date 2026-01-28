@@ -43,7 +43,7 @@ General CSS
   font-size:40px;
 
   display: grid;
-  grid-template-columns: 200px 1fr 200px;
+  grid-template-columns: 300px 1fr 300px;
   gap: 20px;
   padding: 8px 0;
   align-items: center;
@@ -54,6 +54,15 @@ General CSS
     color:white;
     display:flex;
     flex-direction:column;
+}
+
+.context {
+    display:flex;
+    flex-direction:column;
+}
+
+.context p { /* some items like p have implicit margins. You can see this by going into Inspect Element and hovering over the item. It's freaking awesome */
+    margin: 0;
 }
 
 .message img {
@@ -90,7 +99,6 @@ General CSS
 .date {
     font-size:30px;
     color:rgba(255, 255, 255, 0.1);
-    padding-left:50px;
 }
 
 #descriptor {

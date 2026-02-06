@@ -70,6 +70,12 @@ Animation
     }
 }
 
+.typewriter span {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    white-space: pre-wrap;
+}
+
 /*
 General CSS
 */
@@ -95,6 +101,7 @@ General CSS
     color:white;
     display:flex;
     flex-direction:column;
+    white-space:pre-wrap;
 }
 
 .context {
@@ -145,3 +152,4 @@ General CSS
 #descriptor {
     color:rgba(255, 255, 255, 0.1);
 }
+

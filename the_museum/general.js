@@ -40,3 +40,34 @@ document.querySelectorAll(".message_box").forEach(msg => {
         hour12:false
     });
 });
+
+//typewriter logic
+document.querySelectorAll(".typewriter").forEach(el => {
+  const text = el.textContent;
+  el.textContent = "";
+
+  //creates a span for each character so it can be shown individually
+  [...text].forEach(char => {
+    const span = document.createElement("span");
+    span.textContent = char;
+    el.appendChild(span);
+  });
+});
+
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      const spans = entry.target.querySelectorAll("span");
+
+      spans.forEach((span, i) => {
+        setTimeout(() => {
+          span.style.opacity = 1;
+        }, i * 40);
+      });
+
+      observer.unobserve(entry.target);
+    }
+  });
+}, { threshold: 0.4 });
+
+document.querySelectorAll(".typewriter").forEach(el => observer.observe(el));

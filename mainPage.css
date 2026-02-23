@@ -150,6 +150,10 @@ body {
     width:400px;
 }
 
+#insideCAContent p {
+    margin-bottom:-10px;
+}
+
 #clickAroundImg {
     max-width:300px;
     max-height:230px;

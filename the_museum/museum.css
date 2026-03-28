@@ -22,6 +22,7 @@ Header
     background-repeat:repeat-x;
     background-size:600px;
     background-position-y:-150px;
+    filter: drop-shadow(5px 5px 10px #333);
 
     position:fixed;
     height:100px;
@@ -30,6 +31,7 @@ Header
     z-index:999;
     color:white;
     padding:20px;
+    padding-top:0px;
 
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -38,7 +40,7 @@ Header
 }
 
 #logo {
-    height:100px;
+    height:75px;
     width:auto;
     top:10%;
     filter: grayscale(100%);

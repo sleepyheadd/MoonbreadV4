@@ -42,7 +42,7 @@ document.querySelectorAll(".message_box").forEach(msg => {
 });
 
 //typewriter logic
-/*
+
 document.querySelectorAll(".typewriter").forEach(el => {
   const text = el.textContent;
   el.textContent = "";
@@ -72,4 +72,3 @@ const observer = new IntersectionObserver(entries => {
 }, { threshold: 0.4 });
 
 document.querySelectorAll(".typewriter").forEach(el => observer.observe(el));
-*/

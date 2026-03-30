@@ -21,7 +21,7 @@ Header
     background-image:url(img/repeating_tear.png);
     background-repeat:repeat-x;
     background-size:600px;
-    background-position-y:-150px;
+    background-position-y:-160px;
     filter: drop-shadow(5px 5px 10px #333);
 
     position:fixed;
@@ -37,6 +37,20 @@ Header
     grid-template-columns: 1fr 1fr 1fr;
     align-items:center;
     text-align:center;
+}
+
+.ms_dos {
+    background-image: linear-gradient(black, black, rgba(0, 0, 0, 0));
+    height:2000px;
+
+    color: white;
+    font-size:40px;
+    
+    padding:10px;
+}
+
+.ms_dos p {
+    margin:0px;
 }
 
 #logo {

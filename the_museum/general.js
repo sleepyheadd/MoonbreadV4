@@ -81,27 +81,29 @@ textToAppear.forEach(line => {
   line.style.opacity = 0;
 });
 
-textToAppear.forEach((line, i) => {
-  setTimeout(() => {
-    line.style.opacity = 1;
-    if (line.classList.contains("dos_input"))
-    {
-      const tc = line.textContent;
-      line.textContent = "";
-      [...tc].forEach(char => {
-      const span = document.createElement("span");
-      span.style.opacity = 0;
-      span.textContent = char;
-      line.appendChild(span);
+setTimeout(() => {
+  textToAppear.forEach((line, i) => {
+    setTimeout(() => {
+      line.style.opacity = 1;
+      if (line.classList.contains("dos_input"))
+      {
+        const tc = line.textContent;
+        line.textContent = "";
+        [...tc].forEach(char => {
+        const span = document.createElement("span");
+        span.style.opacity = 0;
+        span.textContent = char;
+        line.appendChild(span);
 
-      const spans = line.querySelectorAll("span");
+        const spans = line.querySelectorAll("span");
 
-      spans.forEach((span, i) => {
-        setTimeout(() => {
-          span.style.opacity = 1;
-        }, i * 20);
-      });
-  });
-    }
-  }, i * 750);
-});
+        spans.forEach((span, i) => {
+          setTimeout(() => {
+            span.style.opacity = 1;
+          }, i * 20);
+        });
+    });
+      }
+    }, i * 750);
+  }); 
+}, 1000);

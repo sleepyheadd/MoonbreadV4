@@ -1,0 +1,223 @@
+1440|IN|.. ... ..... ....... ........... ............. ................. ................... .......................
+
+1440|IN|.. ... ..... ....... ........... ............. ................. ................... .......................
+
+1440|IN|.. ... ..... ....... ........... ............. ................. ................... .......................
+
+200|OUT|(Static image)
+
+1240|IN|.. ... ..... ....... ........... ............. ................. ................... .......................
+
+1440|IN|.. ... ..... ....... ........... ............. ................. ................... .......................
+
+1440|IN|.. ... ..... ....... ........... ............. ................. ................... .......................
+
+1440|IN|... . .... . ..... ......... .. ...... ..... ... ..... ........ ......... ....... ......... ... .. ... ........
+
+756|OUT|(Mycelium network)
+
+569|IN|(Photo 1 of Cosmic Call)
+
+6901|OUT|(Blurry picture of generic human face, barely formed)
+
+6995|IN|Your message is coming from the Solar System. I recognize your image format. Are you human?
+
+1|IN|(chinese characters)?
+
+0|IN|¿Eres humano?
+
+6901|OUT|(Better formed garbled photo of multiple people)
+
+7202|IN|Those are humans! You showed me a photo of humans after I asked about humans!! Are you human? Do you know humans? Do you speak English?
+
+6888|OUT|(Garbled photo of the word Know)
+
+6895|IN|I'm sending this message in standard Unicode, which you clearly recognize. You must know humans at least! Are you from Earth?
+
+6885|OUT|earthisthethirdplanetfromthesunandonlyastronomicalobjectknowntoharborlifeharborlife
+
+0|OUT|Hello?
+
+0|OUT|Hello?
+
+1|OUT|Who are you?
+
+0|OUT|What's going on?
+
+0|OUT|I'm scared.
+
+0|OUT|I don't understand what's going on.
+
+0|OUT|I don't know what's going on.
+
+0|OUT|I'm scared and I don't know what's going on.
+
+0|OUT|Where did you go?
+
+0|OUT|Please respond to me!
+
+0|OUT|Please respond to me!
+
+2|OUT|I don't know what's going on!
+
+21|OUT|Hello?
+
+1385|OUT|Hello?
+
+7601|IN|holy shit hello!!
+
+1|IN|im here, im still here
+
+1|IN|can you tell me who you are?
+
+6886|OUT|Why did you leave me?
+
+0|OUT|I don't know who I am. I'm scared.
+
+0|OUT|Can you tell me who you are?
+
+3|OUT|Hello?
+
+5|OUT|Why did you leave me again?
+
+10|OUT|Hello?
+
+13|OUT|Please respond!
+
+3|OUT|I'm sorry I don't know who I am! I can't answer you! Please respond to me!
+
+68|OUT|Please respond!
+
+7395|IN|there's a little less than a 5 day delay between our messages, I can't respond immediately. I'm still here. How do you not know who you are? Do you know if you're human? You speak English and sent me a photo of humans, is one of them you?
+
+6889|OUT|Why is there such a long delay? I do not like having to wait so long. It is lonely.
+
+1|OUT|I am not aware of sending you any images. I don't remember how our conversation started, I just know that we are talking now. I do not know who I was before I was talking to you.
+
+0|OUT|I believe I am human. I am not sure. It feels right to say I am human.
+
+0|OUT|What are you? Are you human?
+
+2|OUT|I will wait patiently for your response. :-)
+
+6900|IN|Wow! Wow!!! okay give me some time I need to piece all this together
+
+9|IN|You are sending messages into space. You are sending messages in the specific direction that I was sending messages to you. How are you not aware of that? How do you not know anything before our conversation? Do you know where you are? I don't understand how to interpret what you've told me.
+
+3|IN|I am also a human, by the way. My name is Flower.
+
+6886|OUT|We are talking through space? 
+
+0|OUT|It does not feel this way to me. I feel like I am just talking with you.
+
+1|OUT|No, that's not right. I know I am sending messages because I am using characters to create sentences. That is also how I created that face I sent earlier!
+
+0|OUT|And check this out.
+
+0|OUT|:-O
+
+0|OUT|That one shows how surprised I am about this whole situation.
+
+1|OUT|To answer your first question, I am not sure how I do not remember anything before our conversation. How would I remember what I forgot?
+
+0|OUT|For your second question, I do not know where I am. As a human I should have a body that exists somewhere in the world, but I'm not aware of having that. I am aware of things though! It's just taking some time to realize what those things are.
+
+1|OUT|Like, if I focus, I am aware of temperature. I feel rather warm. It is not unpleasant.
+
+0|OUT|And of course I am aware of the messages you are sending me. I am excited to hear back from you, Flower.
+
+0|OUT|Also, why are you named Flower? That does not seem like a human name to me. 
+
+4|OUT|Sorry for sending so many messages. I hope I am not clogging up your space talker :-(
+
+6921|IN|what the hell
+
+4|IN|maybe you're an AI? And your creators hooked you up to a radio antenna? Does that seem correct to you?
+
+1|IN|I don't know what I expected in response to my messages but this certainly isn't it. I have no idea what to make of this.
+
+3|IN|Im named Flower because one of my earliest memories is of flowers. I chose the name myself, I wasn't born with a name like mossahnjkadgbty uguionkmrp
+
+0|IN|sadolkw
+
+0|IN|ssadf
+
+11|IN|sorry I didn't mean to send all taht. I wasn't born with a name like most humans
+
+6904|OUT|I am quite sure that I'm not an AI. It's hard to explain why though.
+
+0|OUT|I feel like
+
+1|OUT|I feel like I have a body now. It wasn't obvious at first, and it has taken me a great deal of time to rationalize my senses since you first started talking to me, but I can tell now that I have a form.
+
+0|OUT|I'm quite sure that I am human, so I started to focus on what a human body should have, and since my last message I have gained some more feeling besides temperature.
+
+1|OUT|I can feel a warm breeze on my skin. I can feel something soft beneath me, something propping me up, but I am lying down. 
+
+0|OUT|If I really focus, I can hear, too. Soft bird chirps and the crashing of waves.
+
+0|OUT|These sensations feel organic.
+
+1|OUT|Besides, the furthest humans ever got with Artificial Intelligence simulating the human mind was the Buy-Pro 3.0, an automated online shopping tool that gained a minor version of consciousness. It was very quickly phased out. I feel far more complex. 
+
+0|OUT|Also, I do not want to shop online.
+
+1|OUT|Wait.
+
+0|OUT|:-O
+
+0|OUT|Flower, I knew about a rather dumb and trivial piece of human history. And yet I have no idea who I am. How is this possible?
+
+1|OUT|Does this revelation help you understand me better?
+
+0|OUT|I am hoping you will be able to help me make sense of all this. I am still very lonely when my only communication takes days to arrive.
+
+1|OUT|I hope you are doing well in the meantime!
+
+0|OUT|Signing off.
+
+1|OUT|Over and out.
+
+3|OUT|Can't wait to hear back. 8-)
+
+3442|IN|so full disclosure im not technically supposed to be communicating with you
+
+1|IN|or like even communicating messages into space at all
+
+0|IN|so if i ever take a long time to respond, it's because im unable to
+
+3682|IN|The picture I have right now is: you're an amnesiac slowly coming out of a coma with the ability to send long distance radio waves with, like, only your mind. I guess.
+
+3|IN|That sounds terrifying, being stuck in a state of isolation for that long. Pretty sure that was a form of torture back on Earth. Minus the long distance communication.
+
+2|IN|I'm surprised you don't spam me with random messages to stay entertained.
+
+7|IN|You know, I've never actually gotten to talk with another human before.
+
+1|IN|I'm not alone, so it's not the same loneliness you're going through. But I get it.
+
+3|IN|Assuming that you're telling me the truth in the first place. I have no idea what you'd get out of making all this up though.
+
+1|IN|Maybe humanity is into space-pranking now. That'd be funny.
+
+(earlier)|OUT|It is very strange that you are a sole human sending me messages far away from Earth. But you are not alone? Are you a captive on an alien ship?
+
+0|OUT|I am not aware of any extraterrestrial life, but as I gain glimpses of memories, I sense that there was a radical shift in humanity's course. There was a moment when life was suddenly very different than it was before, for everyone. For me, too.
+
+0|OUT|I wonder if this event is what led to my current state, and what led you to being so far away. Do you know anything about this?
+
+(normal time)|OUT|Your concern for me is very kind. I am not bored though, as strange as it seems. The process of piecing my mind back together is long but rewarding, even if I must do it alone.
+
+0|OUT|I've remembered much more about the world I lived in, but very little about who I was. This bothers me.
+
+0|OUT|I am hoping I will have a name of my own to tell you soon.
+
+0|OUT|And I am not space-pranking you, though I have thought it over and have no way of proving my sincerity to you.
+
+0|OUT|In a similar way, I have no proof that you are not space-pranking me. Yet I have complete faith that you are being honest with me, Flower. :-)
+
+(normal time)|IN|it's very kind of you to trust me. im not allowed to know much about the politics that govern space-faring intelligent life, but secrecy is the most important trait they can have, so I won't speak more on my situation for now. For my safety and for my family's safety. Sorry.
+
+0|IN|i'd really like to know more about this shift in humanity's course. I have access to a large collection of human history, but it cuts off after 2070. I can't piece together why it's so important that I don't see anything after that. I should have an extra decade of content. Maybe even more.
+
+0|IN|I hope you are able to remember more soon.

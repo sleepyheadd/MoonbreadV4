@@ -200,24 +200,24 @@
 
 1|IN|Maybe humanity is into space-pranking now. That'd be funny.
 
-(earlier)|OUT|It is very strange that you are a sole human sending me messages far away from Earth. But you are not alone? Are you a captive on an alien ship?
+3190|OUT|It is very strange that you are a sole human sending me messages far away from Earth. But you are not alone? Are you a captive on an alien ship?
 
 0|OUT|I am not aware of any extraterrestrial life, but as I gain glimpses of memories, I sense that there was a radical shift in humanity's course. There was a moment when life was suddenly very different than it was before, for everyone. For me, too.
 
-0|OUT|I wonder if this event is what led to my current state, and what led you to being so far away. Do you know anything about this?
+1|OUT|I wonder if this event is what led to my current state, and what led you to being so far away. Do you know anything about this?
 
-(normal time)|OUT|Your concern for me is very kind. I am not bored though, as strange as it seems. The process of piecing my mind back together is long but rewarding, even if I must do it alone.
+3695|OUT|Your concern for me is very kind. I am not bored though, as strange as it seems. The process of piecing my mind back together is long but rewarding, even if I must do it alone.
 
 0|OUT|I've remembered much more about the world I lived in, but very little about who I was. This bothers me.
 
 0|OUT|I am hoping I will have a name of my own to tell you soon.
 
-0|OUT|And I am not space-pranking you, though I have thought it over and have no way of proving my sincerity to you.
+1|OUT|And I am not space-pranking you, though I have thought it over and have no way of proving my sincerity to you.
 
 0|OUT|In a similar way, I have no proof that you are not space-pranking me. Yet I have complete faith that you are being honest with me, Flower. :-)
 
-(normal time)|IN|it's very kind of you to trust me. im not allowed to know much about the politics that govern space-faring intelligent life, but secrecy is the most important trait they can have, so I won't speak more on my situation for now. For my safety and for my family's safety. Sorry.
+6885|IN|it's very kind of you to trust me. im not allowed to know much about the politics that govern space-faring intelligent life, but secrecy is the most important trait they can have, so I won't speak more on my situation for now. For my safety and for my family's safety. Sorry.
 
-0|IN|i'd really like to know more about this shift in humanity's course. I have access to a large collection of human history, but it cuts off after 2070. I can't piece together why it's so important that I don't see anything after that. I should have an extra decade of content. Maybe even more.
+2|IN|i'd really like to know more about this shift in humanity's course. I have access to a large collection of human history, but it cuts off after 2070. I can't piece together why it's so important that I don't see anything after that. I should have an extra decade of content. Maybe even more.
 
-0|IN|I hope you are able to remember more soon.
+1|IN|I hope you are able to remember more soon.

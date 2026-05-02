@@ -1,0 +1,1042 @@
+
+<div style="height:1440px;"></div>
+<div class="message_box" id="flower" data-minutes="1440">
+    <div></div>
+    <div class="message"><div class="typewriter">.. ... ..... ....... ........... ............. ................. ................... .......................</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:1440px;"></div>
+<div class="message_box" id="flower" data-minutes="1440">
+    <div></div>
+    <div class="message"><div class="typewriter">.. ... ..... ....... ........... ............. ................. ................... .......................</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:1440px;"></div>
+<div class="message_box" id="flower" data-minutes="1440">
+    <div></div>
+    <div class="message"><div class="typewriter">.. ... ..... ....... ........... ............. ................. ................... .......................</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:200px;"></div>
+<div class="message_box" id="unnamed" data-minutes="200">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">(Static image)</div></div>
+    <div></div>
+</div>
+                        
+<div style="height:1240px;"></div>
+<div class="message_box" id="flower" data-minutes="1240">
+    <div></div>
+    <div class="message"><div class="typewriter">.. ... ..... ....... ........... ............. ................. ................... .......................</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:1440px;"></div>
+<div class="message_box" id="flower" data-minutes="1440">
+    <div></div>
+    <div class="message"><div class="typewriter">.. ... ..... ....... ........... ............. ................. ................... .......................</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:1440px;"></div>
+<div class="message_box" id="flower" data-minutes="1440">
+    <div></div>
+    <div class="message"><div class="typewriter">.. ... ..... ....... ........... ............. ................. ................... .......................</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:1440px;"></div>
+<div class="message_box" id="flower" data-minutes="1440">
+    <div></div>
+    <div class="message"><div class="typewriter">... . .... . ..... ......... .. ...... ..... ... ..... ........ ......... ....... ......... ... .. ... ........</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:756px;"></div>
+<div class="message_box" id="unnamed" data-minutes="756">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">(Mycelium network)</div></div>
+    <div></div>
+</div>
+                        
+<div style="height:569px;"></div>
+<div class="message_box" id="flower" data-minutes="569">
+    <div></div>
+    <div class="message"><div class="typewriter">(Photo 1 of Cosmic Call)</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:6901px;"></div>
+<div class="message_box" id="unnamed" data-minutes="6901">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">(Blurry picture of generic human face, barely formed)</div></div>
+    <div></div>
+</div>
+                        
+<div style="height:6995px;"></div>
+<div class="message_box" id="flower" data-minutes="6995">
+    <div></div>
+    <div class="message"><div class="typewriter">Your message is coming from the Solar System. I recognize your image format. Are you human?</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="1">
+    <div></div>
+    <div class="message"><div class="typewriter">(chinese characters)?</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="0">
+    <div></div>
+    <div class="message"><div class="typewriter">¿Eres humano?</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:6901px;"></div>
+<div class="message_box" id="unnamed" data-minutes="6901">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">(Better formed garbled photo of multiple people)</div></div>
+    <div></div>
+</div>
+                        
+<div style="height:7202px;"></div>
+<div class="message_box" id="flower" data-minutes="7202">
+    <div></div>
+    <div class="message"><div class="typewriter">Those are humans! You showed me a photo of humans after I asked about humans!! Are you human? Do you know humans? Do you speak English?</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:6888px;"></div>
+<div class="message_box" id="unnamed" data-minutes="6888">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">(Garbled photo of the word Know)</div></div>
+    <div></div>
+</div>
+                        
+<div style="height:6895px;"></div>
+<div class="message_box" id="flower" data-minutes="6895">
+    <div></div>
+    <div class="message"><div class="typewriter">I'm sending this message in standard Unicode, which you clearly recognize. You must know humans at least! Are you from Earth?</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:6885px;"></div>
+<div class="message_box" id="unnamed" data-minutes="6885">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">earthisthethirdplanetfromthesunandonlyastronomicalobjectknowntoharborlifeharborlife</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Hello?</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Hello?</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="1">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Who are you?</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">What's going on?</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I'm scared.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I don't understand what's going on.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I don't know what's going on.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I'm scared and I don't know what's going on.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Where did you go?</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Please respond to me!</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Please respond to me!</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="2">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I don't know what's going on!</div></div>
+    <div></div>
+</div>
+                        
+<div style="height:21px;"></div>
+<div class="message_box" id="unnamed" data-minutes="21">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Hello?</div></div>
+    <div></div>
+</div>
+                        
+<div style="height:1385px;"></div>
+<div class="message_box" id="unnamed" data-minutes="1385">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Hello?</div></div>
+    <div></div>
+</div>
+                        
+<div style="height:7601px;"></div>
+<div class="message_box" id="flower" data-minutes="7601">
+    <div></div>
+    <div class="message"><div class="typewriter">holy shit hello!!</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="1">
+    <div></div>
+    <div class="message"><div class="typewriter">im here, im still here</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="1">
+    <div></div>
+    <div class="message"><div class="typewriter">can you tell me who you are?</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:6886px;"></div>
+<div class="message_box" id="unnamed" data-minutes="6886">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Why did you leave me?</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I don't know who I am. I'm scared.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Can you tell me who you are?</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="3">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Hello?</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="5">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Why did you leave me again?</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="10">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Hello?</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="13">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Please respond!</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="3">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I'm sorry I don't know who I am! I can't answer you! Please respond to me!</div></div>
+    <div></div>
+</div>
+                        
+<div style="height:68px;"></div>
+<div class="message_box" id="unnamed" data-minutes="68">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Please respond!</div></div>
+    <div></div>
+</div>
+                        
+<div style="height:7395px;"></div>
+<div class="message_box" id="flower" data-minutes="7395">
+    <div></div>
+    <div class="message"><div class="typewriter">there's a little less than a 5 day delay between our messages, I can't respond immediately. I'm still here. How do you not know who you are? Do you know if you're human? You speak English and sent me a photo of humans, is one of them you?</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:6889px;"></div>
+<div class="message_box" id="unnamed" data-minutes="6889">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Why is there such a long delay? I do not like having to wait so long. It is lonely.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="1">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I am not aware of sending you any images. I don't remember how our conversation started, I just know that we are talking now. I do not know who I was before I was talking to you.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I believe I am human. I am not sure. It feels right to say I am human.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">What are you? Are you human?</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="2">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I will wait patiently for your response. :-)</div></div>
+    <div></div>
+</div>
+                        
+<div style="height:6900px;"></div>
+<div class="message_box" id="flower" data-minutes="6900">
+    <div></div>
+    <div class="message"><div class="typewriter">Wow! Wow!!! okay give me some time I need to piece all this together</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="9">
+    <div></div>
+    <div class="message"><div class="typewriter">You are sending messages into space. You are sending messages in the specific direction that I was sending messages to you. How are you not aware of that? How do you not know anything before our conversation? Do you know where you are? I don't understand how to interpret what you've told me.</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="3">
+    <div></div>
+    <div class="message"><div class="typewriter">I am also a human, by the way. My name is Flower.</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:6886px;"></div>
+<div class="message_box" id="unnamed" data-minutes="6886">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">We are talking through space? </div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">It does not feel this way to me. I feel like I am just talking with you.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="1">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">No, that's not right. I know I am sending messages because I am using characters to create sentences. That is also how I created that face I sent earlier!</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">And check this out.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">:-O</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">That one shows how surprised I am about this whole situation.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="1">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">To answer your first question, I am not sure how I do not remember anything before our conversation. How would I remember what I forgot?</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">For your second question, I do not know where I am. As a human I should have a body that exists somewhere in the world, but I'm not aware of having that. I am aware of things though! It's just taking some time to realize what those things are.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="1">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Like, if I focus, I am aware of temperature. I feel rather warm. It is not unpleasant.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">And of course I am aware of the messages you are sending me. I am excited to hear back from you, Flower.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Also, why are you named Flower? That does not seem like a human name to me. </div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="4">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Sorry for sending so many messages. I hope I am not clogging up your space talker :-(</div></div>
+    <div></div>
+</div>
+                        
+<div style="height:6921px;"></div>
+<div class="message_box" id="flower" data-minutes="6921">
+    <div></div>
+    <div class="message"><div class="typewriter">what the hell</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="4">
+    <div></div>
+    <div class="message"><div class="typewriter">maybe you're an AI? And your creators hooked you up to a radio antenna? Does that seem correct to you?</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="1">
+    <div></div>
+    <div class="message"><div class="typewriter">I don't know what I expected in response to my messages but this certainly isn't it. I have no idea what to make of this.</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="3">
+    <div></div>
+    <div class="message"><div class="typewriter">Im named Flower because one of my earliest memories is of flowers. I chose the name myself, I wasn't born with a name like mossahnjkadgbty uguionkmrp</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="0">
+    <div></div>
+    <div class="message"><div class="typewriter">sadolkw</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="0">
+    <div></div>
+    <div class="message"><div class="typewriter">ssadf</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="11">
+    <div></div>
+    <div class="message"><div class="typewriter">sorry I didn't mean to send all taht. I wasn't born with a name like most humans</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:6904px;"></div>
+<div class="message_box" id="unnamed" data-minutes="6904">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I am quite sure that I'm not an AI. It's hard to explain why though.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I feel like</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="1">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I feel like I have a body now. It wasn't obvious at first, and it has taken me a great deal of time to rationalize my senses since you first started talking to me, but I can tell now that I have a form.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I'm quite sure that I am human, so I started to focus on what a human body should have, and since my last message I have gained some more feeling besides temperature.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="1">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I can feel a warm breeze on my skin. I can feel something soft beneath me, something propping me up, but I am lying down. </div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">If I really focus, I can hear, too. Soft bird chirps and the crashing of waves.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">These sensations feel organic.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="1">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Besides, the furthest humans ever got with Artificial Intelligence simulating the human mind was the Buy-Pro 3.0, an automated online shopping tool that gained a minor version of consciousness. It was very quickly phased out. I feel far more complex. </div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Also, I do not want to shop online.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="1">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Wait.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">:-O</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Flower, I knew about a rather dumb and trivial piece of human history. And yet I have no idea who I am. How is this possible?</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="1">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Does this revelation help you understand me better?</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I am hoping you will be able to help me make sense of all this. I am still very lonely when my only communication takes days to arrive.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="1">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I hope you are doing well in the meantime!</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Signing off.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="1">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Over and out.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="3">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Can't wait to hear back. 8-)</div></div>
+    <div></div>
+</div>
+                        
+<div style="height:3442px;"></div>
+<div class="message_box" id="flower" data-minutes="3442">
+    <div></div>
+    <div class="message"><div class="typewriter">so full disclosure im not technically supposed to be communicating with you</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="1">
+    <div></div>
+    <div class="message"><div class="typewriter">or like even communicating messages into space at all</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="0">
+    <div></div>
+    <div class="message"><div class="typewriter">so if i ever take a long time to respond, it's because im unable to</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:3682px;"></div>
+<div class="message_box" id="flower" data-minutes="3682">
+    <div></div>
+    <div class="message"><div class="typewriter">The picture I have right now is: you're an amnesiac slowly coming out of a coma with the ability to send long distance radio waves with, like, only your mind. I guess.</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="3">
+    <div></div>
+    <div class="message"><div class="typewriter">That sounds terrifying, being stuck in a state of isolation for that long. Pretty sure that was a form of torture back on Earth. Minus the long distance communication.</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="2">
+    <div></div>
+    <div class="message"><div class="typewriter">I'm surprised you don't spam me with random messages to stay entertained.</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="7">
+    <div></div>
+    <div class="message"><div class="typewriter">You know, I've never actually gotten to talk with another human before.</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="1">
+    <div></div>
+    <div class="message"><div class="typewriter">I'm not alone, so it's not the same loneliness you're going through. But I get it.</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="3">
+    <div></div>
+    <div class="message"><div class="typewriter">Assuming that you're telling me the truth in the first place. I have no idea what you'd get out of making all this up though.</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="1">
+    <div></div>
+    <div class="message"><div class="typewriter">Maybe humanity is into space-pranking now. That'd be funny.</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div style="height:3190px;"></div>
+<div class="message_box" id="unnamed" data-minutes="3190">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">It is very strange that you are a sole human sending me messages far away from Earth. But you are not alone? Are you a captive on an alien ship?</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I am not aware of any extraterrestrial life, but as I gain glimpses of memories, I sense that there was a radical shift in humanity's course. There was a moment when life was suddenly very different than it was before, for everyone. For me, too.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="1">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I wonder if this event is what led to my current state, and what led you to being so far away. Do you know anything about this?</div></div>
+    <div></div>
+</div>
+                        
+<div style="height:3695px;"></div>
+<div class="message_box" id="unnamed" data-minutes="3695">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">Your concern for me is very kind. I am not bored though, as strange as it seems. The process of piecing my mind back together is long but rewarding, even if I must do it alone.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I've remembered much more about the world I lived in, but very little about who I was. This bothers me.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">I am hoping I will have a name of my own to tell you soon.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="1">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">And I am not space-pranking you, though I have thought it over and have no way of proving my sincerity to you.</div></div>
+    <div></div>
+</div>
+                        
+<div class="message_box" id="unnamed" data-minutes="0">
+    <div class="context">
+        <p class="sender">Out</p>
+        <p class="date"></p>
+    </div>
+    <div class="message"><div class="typewriter">In a similar way, I have no proof that you are not space-pranking me. Yet I have complete faith that you are being honest with me, Flower. :-)</div></div>
+    <div></div>
+</div>
+                        
+<div style="height:6885px;"></div>
+<div class="message_box" id="flower" data-minutes="6885">
+    <div></div>
+    <div class="message"><div class="typewriter">it's very kind of you to trust me. im not allowed to know much about the politics that govern space-faring intelligent life, but secrecy is the most important trait they can have, so I won't speak more on my situation for now. For my safety and for my family's safety. Sorry.</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="2">
+    <div></div>
+    <div class="message"><div class="typewriter">i'd really like to know more about this shift in humanity's course. I have access to a large collection of human history, but it cuts off after 2070. I can't piece together why it's so important that I don't see anything after that. I should have an extra decade of content. Maybe even more.</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        
+<div class="message_box" id="flower" data-minutes="1">
+    <div></div>
+    <div class="message"><div class="typewriter">I hope you are able to remember more soon.</div></div>
+    <div class="context">
+        <p class="sender">In</p>
+        <p class="date"></p>
+    </div>
+</div>
+                        

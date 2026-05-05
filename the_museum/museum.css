@@ -209,6 +209,8 @@ General CSS
 
 .supplemental_desc {
     text-align:center;
+    width: 75%;
+    margin: 0 auto;
     font-size:clamp(15px, 3vw, 35px);
     color:rgb(114, 114, 114);
 }

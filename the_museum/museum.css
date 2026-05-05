@@ -200,10 +200,16 @@ General CSS
 
 .date {
     font-size:clamp(10px, 2vw, 30px);
-    color:rgba(255, 255, 255, 0.1);
+    color:rgb(114, 114, 114);
 }
 
 #descriptor {
-    color:rgba(255, 255, 255, 0.1);
+    color:rgb(114, 114, 114);
+}
+
+.supplemental_desc {
+    text-align:center;
+    font-size:clamp(15px, 3vw, 35px);
+    color:rgb(114, 114, 114);
 }
 

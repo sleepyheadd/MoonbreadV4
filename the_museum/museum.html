@@ -1092,7 +1092,23 @@
         <h1 style="color:white; text-align:center; font-size:clamp(25px, 6vw, 60px);">---------------</h1>
         <h1 style="color:white; text-align:center; font-size:clamp(25px, 6vw, 60px);">001 SUPPLEMENTAL</h1>
         <p class="supplemental_desc">The following has had translations appended in the selected language (ENGLISH), with certain phrases and sentence structures altered to better convey the meaning to that language's audience. Appended translations have been placed on the centroid of the relevant semantic cluster.</p>
-        <img style="width: clamp(16px, 100%, 1024px); display: block; margin-left: auto; margin-right: auto;" draggable="false" src="img/001_alien_document.png">
+
+        <div style="position: relative; width: clamp(16px, 100%, 1024px); display: block; margin-left: auto; margin-right: auto;">
+            <img style="width: clamp(16px, 100%, 1024px);" draggable="false" src="img/001_alien_document.png">
+            <button class="image_overlay_button" style="left:37%; top:13%;" onclick="supplemental_trigger('A')">A</button>
+            <button class="image_overlay_button" style="left:60%; top:20%;" onclick="supplemental_trigger('B')">B</button>
+            <button class="image_overlay_button" style="left:55%; top:25%;" onclick="supplemental_trigger('C')">C</button>
+            <button class="image_overlay_button" style="left:42%; top:29%;" onclick="supplemental_trigger('D')">D</button>
+            <button class="image_overlay_button" style="left:51%; top:42%;" onclick="supplemental_trigger('E')">E</button>
+            <button class="image_overlay_button" style="left:53%; top:48%;" onclick="supplemental_trigger('F')">F</button>
+            <button class="image_overlay_button" style="left:40%; top:65%;" onclick="supplemental_trigger('G')">G</button>
+            <button class="image_overlay_button" style="left:20%; top:69%;" onclick="supplemental_trigger('H')">H</button>
+            <button class="image_overlay_button" style="left:70%; top:65%;" onclick="supplemental_trigger('I')">I</button>
+            <button class="image_overlay_button" style="left:56%; top:80%;" onclick="supplemental_trigger('J')">J</button>
+            <button class="image_overlay_button" style="left:60%; top:89%;" onclick="supplemental_trigger('K')">K</button>
+        </div>
+
+        <p id="cluster_display" style="color:white; text-align:center; font-size:clamp(12px, 3vw, 30px);">Please click on a semantic cluster to display its contents here.</p>
         
         <div style="height:1000px;"></div>
     </div>

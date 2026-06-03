@@ -14,6 +14,19 @@ body {
 }
 
 /*
+Interactive Stuff
+*/
+
+.image_overlay_button {
+    position:absolute;
+    left:0;
+    top:0;
+
+    font-family: "Jersey 20", sans-serif;
+    font-size:100%;
+}
+
+/*
 Header
 */
 

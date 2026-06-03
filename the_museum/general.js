@@ -1,4 +1,47 @@
 
+//Semantic Cluster Code
+
+function supplemental_trigger(selection) {
+    switch(selection) {
+      case 'A':
+        document.getElementById("cluster_display").textContent = "Source: 113 Minor Spiral Arm Outer 32.";
+        break;
+      case 'B':
+        document.getElementById("cluster_display").textContent = "Detection Method: Radio Signal.";
+        break;
+      case 'C':
+        document.getElementById("cluster_display").textContent = "Detection Notes: Multiple radio signals intercepted from source. All have p <0.01 for intelligent design. All appear deliberate. No acknowledgement of Concealment in messaging. No coordination in messaging.";
+        break;
+      case 'D':
+        document.getElementById("cluster_display").textContent = "p: <0.01";
+        break;
+      case 'E':
+        document.getElementById("cluster_display").textContent = "Risk of Outside Detection: Yes.";
+        break;
+      case 'F':
+        document.getElementById("cluster_display").textContent = "Risk of Outside Detection Notes: Signals are broadcast in all directions. [---] likely sending probe in 30 cycles. Others to follow.";
+        break;
+      case 'G':
+        document.getElementById("cluster_display").textContent = "Protection Measures: Not advised.";
+        break;
+      case 'H':
+        document.getElementById("cluster_display").textContent = "Protection Measures Notes: No useful offerings in signals. Source harbors carbon lifeforms similar to other protected species. Primitive sciences. Primitive arts. Id engagers.";
+        break;
+      case 'I':
+        document.getElementById("cluster_display").textContent = "Threat Type: None. Minor Type 3 War Variance.";
+        break;
+      case 'J':
+        document.getElementById("cluster_display").textContent = "Preservation Measures: None.";
+        break;
+      case 'K':
+        document.getElementById("cluster_display").textContent = "Preservation Measures Notes: Nothing to be gained from our preservation efforts. Let The Museum handle it.";
+        break;
+      default:
+        console.log("NOOOOOOOOOOOO");
+        break;
+    }
+}
+
 //BG Scroll Code
 const bgStars = document.getElementById("bgStars");
 const bgStars2 = document.getElementById("bgStars2");
